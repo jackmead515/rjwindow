@@ -1,0 +1,16 @@
+[package]
+name = "rjwindow"
+version = "0.0.1"
+authors = ["Jack <jackmead515@gmail.com>"]
+edition = "2018"
+description = "Automatically disappearing data structure"
+keywords = [ "data structure", "utility", "function" ]
+categories = [ "rust-patterns" ]
+readme = "README.md"
+homepage = "https://github.com/jackmead515/rjwindow"
+repository = "https://github.com/jackmead515/rjwindow"
+license-file = "LICENSE.txt"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
